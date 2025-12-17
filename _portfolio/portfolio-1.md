@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Video processing algorithm for vibration monitoring"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/OspreyPatch.JPEG'>"
 collection: portfolio
 ---
 
