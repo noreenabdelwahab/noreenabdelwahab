@@ -1,6 +1,6 @@
 ---
 title: "Rocketry"
-excerpt: "Got to build some sounding rockets. <br/><img src='/images/OspreyPatch.JPEG' width='200'>"
+excerpt: "Got to build some sounding rockets. <br/><img src='/images/OspreyPatch.png' width='200'>"
 collection: portfolio
 ---
 I got to design and build rockets with the Student Organization for Aerospace Research ([SOAR](https://www.instagram.com/uofcsoar?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)). We first launched DinoSOAR in 2021. Then, we launched Osprey for the first time at Fire & Ice in Feb 2022. 
