@@ -6,12 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<p style="text-align: right;">
+<!-- <p style="text-align: right;">
   <a href="/files/Noreen Abdelwahab CV.pdf" class="btn btn--primary" download>
     Download CV (PDF)
   </a>
 </p>
-{% include base_path %}
+{% include base_path %} -->
 
 
 Education
